@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://concordplumbingsquad.com/sitemap.xml
